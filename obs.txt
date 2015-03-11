@@ -1,0 +1,20 @@
+/: root
+~: home
+wd: working direcotry
+cd [with no args]: current directory
+cd dir[wtih args]: change to dir
+cls: clear screen
+dir: list wd content
+del dir: remove all dir content
+del file: remove pointed file
+mkdir: make directory [alt: md]
+rmdir: remove directory [alt: rd]
+xcopy dir1 dir2: copy entire directory dir1 content to dir2 
+copy nul filename.ext: create filename.ext in wd
+
+move fileName newDirPath: 
+rename oldName newName:
+
+
+
+
